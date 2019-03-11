@@ -43,9 +43,12 @@ To perform an operation, enter the value corresponding to the operatios below:
 
 LIMITATIONS:
 
-My program only works with one file at one time. For example; if the user reads in an existing file, that file is currently in use. If the user creates a new file after reading an existing file, the new file is currently in use and the program discards the data read from the previous file.
+My program only works with one file at one time.
+For example; if the user reads in an existing file, that file is currently in use. 
+If the user creates a new file after reading an existing file, the new file is 
+currently in use and the program discards the data read from the previous file.
 
-Date file must be in the “docs” folder
+Date file must be placed in the “docs” folder
 
 My program assumes that the program password is stored as the first line inside of the input file.
 
