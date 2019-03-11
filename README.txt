@@ -1,6 +1,6 @@
 ****************************************
 Password Vault
-Student: Anugesh Balasubramaniam
+Author: Anugesh Balasubramaniam
 Date: 06-25-2017
 ****************************************
 
