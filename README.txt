@@ -48,7 +48,7 @@ For example; if the user reads in an existing file, that file is currently in us
 If the user creates a new file after reading an existing file, the new file is 
 currently in use and the program discards the data read from the previous file.
 
-Date file must be placed in the “docs” folder
+Data file must be placed in the “docs” folder
 
 My program assumes that the program password is stored as the first line inside of the input file.
 
